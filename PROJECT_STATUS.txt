@@ -1,0 +1,13 @@
+WORKING FOUNDATION INCLUDED
+============================
+Backend: FastAPI + Random Forest + synthetic dataset + prediction API
+Frontend: React + Vite + Recharts dashboard
+Testing: pytest API tests
+
+Run:
+1. Double-click run_backend.bat
+2. Double-click run_frontend.bat
+3. Open the Vite URL shown in the frontend terminal.
+
+The advanced final-year modules are intentionally planned, not faked:
+Temporal ML -> Neo4j -> RAG -> AI Agent -> MLflow -> Docker.
